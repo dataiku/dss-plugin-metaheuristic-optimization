@@ -1,0 +1,13 @@
+{
+    "id": "metaheuristic-optimization",
+    "version": "1.0.0",
+    "meta": {
+        "label": "Metaheuristic optimization",
+        "description": "A Jupyter notebook template illustrating mathematical optimization with genetic algorithm metaheuristic using the DEAP library.",
+        "author": "Dataiku (Nicolas OMONT)",
+        "icon": "icon-thumbs-up",
+        "licenseInfo": "MIT",
+        "url": "https://www.dataiku.com/dss/plugins/info/dss-plugin-metaheuristic-optimization.html",
+        "tags": [ "Optimization", "Advanced Analytics"]
+    }
+}
